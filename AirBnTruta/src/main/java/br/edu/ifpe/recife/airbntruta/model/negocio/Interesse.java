@@ -18,15 +18,12 @@ public class Interesse {
     private long realizado;
     private String proposta;
     private int tempoPermanencia;
+    private Fugitivo interessado;
+    private Hospedagem interesse;
     
     public Interesse(){
         this.realizado = new Date().getTime();
     }
-    
-    private Fugitivo interessado;
-    private Hospedagem interesse;
-    
-    
 
     public int getCodigo() {
         return codigo;
