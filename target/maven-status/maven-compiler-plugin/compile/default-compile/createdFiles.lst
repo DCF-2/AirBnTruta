@@ -1,0 +1,12 @@
+br\edu\ifpe\recife\airbntruta\model\repositorios\RepositorioFugitivo.class
+br\edu\ifpe\recife\airbntruta\JakartaRestConfiguration.class
+br\edu\ifpe\recife\airbntruta\model\negocio\Hospedeiro.class
+br\edu\ifpe\recife\airbntruta\model\negocio\Fugitivo.class
+br\edu\ifpe\recife\airbntruta\model\negocio\Hospedagem.class
+br\edu\ifpe\recife\airbntruta\resources\JakartaEE11Resource.class
+br\edu\ifpe\recife\airbntruta\model\negocio\Servico.class
+br\edu\ifpe\recife\airbntruta\model\repositorios\RepositorioInteresse.class
+br\edu\ifpe\recife\airbntruta\model\repositorios\RepositorioHospedeiro.class
+br\edu\ifpe\recife\airbntruta\model\repositorios\RepositorioServico.class
+br\edu\ifpe\recife\airbntruta\model\repositorios\RepositorioHospedagem.class
+br\edu\ifpe\recife\airbntruta\model\negocio\Interesse.class
